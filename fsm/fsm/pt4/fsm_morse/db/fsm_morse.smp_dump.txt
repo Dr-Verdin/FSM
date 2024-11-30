@@ -1,0 +1,8 @@
+
+State Machine - |fsm_morse|state
+Name state.SHIFT state.COUNT_LOW state.COUNT_15 state.COUNT_05 state.IDLE 
+state.IDLE 0 0 0 0 0 
+state.COUNT_05 0 0 0 1 1 
+state.COUNT_15 0 0 1 0 1 
+state.COUNT_LOW 0 1 0 0 1 
+state.SHIFT 1 0 0 0 1 

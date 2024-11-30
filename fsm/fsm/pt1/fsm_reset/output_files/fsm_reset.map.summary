@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Oct 15 13:30:22 2024
+Quartus Prime Version : 21.1.0 Build 842 10/21/2021 SJ Lite Edition
+Revision Name : fsm_reset
+Top-level Entity Name : fsm_reset
+Family : Cyclone IV E
+Total logic elements : 31
+    Total combinational functions : 31
+    Dedicated logic registers : 10
+Total registers : 10
+Total pins : 13
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
